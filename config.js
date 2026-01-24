@@ -23,11 +23,11 @@ global.prems = ['573001533523', '50231458537']
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.packname = '𝙉𝙖𝙜𝙞𝘽𝙤𝙩-𝙈𝘿 : 𝘿𝙚𝙫 𝙃𝙖𝙨𝙝𝙞𝙧𝙖𝙢𝙖'
-global.botname = '𝖭𝖺𝗀𝗂𝖡𝗈𝗍-𝖠𝖨'
-global.textbot = 'N A G I - A I'
-global.author = '𝑁𝑎𝑔𝑖𝐵𝑜𝑡-𝑀𝐷 𝐵𝑦 𝐻𝑎𝑠ℎ𝑖𝑟𝑎𝑚𝑎 𝑆𝑒𝑛𝑗𝑢'
-global.dev = 'NᴀɢɪBᴏᴛ-MD : Hᴀsʜɪʀᴀᴍᴀ Sᴇɴᴊᴜ'
+global.packname = 'Sukuna-𝙈𝘿 : 𝘿𝙚𝙫 kochu'
+global.botname = 'Sukuna𝖡𝗈𝗍-𝖠𝖨'
+global.textbot = 'S U K U N A - A I'
+global.author = 'Sukuna𝐵𝑜𝑡-𝑀𝐷 𝐵𝑦 kochu 𝑆𝑒𝑛𝑗𝑢'
+global.dev = 'SukunBᴏᴛ-MD : kochu Sᴇɴᴊᴜ'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
