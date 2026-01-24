@@ -23,7 +23,7 @@ global.prems = ['573001533523', '50231458537']
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.packname = 'Sukuna-𝙈𝘿 : 𝘿𝙚𝙫 kochu'
+global.packname = 'Sukuna '
 global.botname = 'Sukuna𝖡𝗈𝗍-𝖠𝖨'
 global.textbot = 'S U K U N A - A I'
 global.author = 'Sukuna𝐵𝑜𝑡-𝑀𝐷 𝐵𝑦 kochu 𝑆𝑒𝑛𝑗𝑢'
