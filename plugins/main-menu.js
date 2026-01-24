@@ -47,7 +47,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 
   let infoUser = `
 ʜᴏʟᴀ, ${nombre}
-ꜱᴏʏ ɪᴛᴀᴄʜɪ, ʟɪꜱᴛᴏ ᴘᴀʀᴀ ᴀʏᴜᴅᴀʀᴛᴇ
+ꜱᴏʏ BRAYAN NALGON, ʟɪꜱᴛᴏ ᴘᴀʀᴀ ᴀʏᴜᴅᴀʀᴛᴇ
 
 *乂 ɪɴꜰᴏ ᴅᴇʟ ᴜꜱᴜᴀʀɪᴏ*
 ┌  ◦ ᴇꜱᴛᴀᴅᴏ: ᴜꜱᴜᴀʀɪᴏ
